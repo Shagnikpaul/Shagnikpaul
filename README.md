@@ -1,6 +1,6 @@
 ![COVER](https://i.imgur.com/tWX2gFP.png)
 
-<h1 align="center">📞 Contact Me</h1> 
+<h1 align="center">📞 My Contact Info.</h1> 
 
 <br>
 

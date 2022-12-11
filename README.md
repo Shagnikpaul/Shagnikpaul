@@ -1,4 +1,4 @@
-![COVER](https://i.imgur.com/r3O8O1e.png)
+![COVER](https://i.imgur.com/Z73YYJr.png)
 <br> <br>
 <h1 align="center">📞 <br> Contact me through <br> ‎  </h1> 
 <br>

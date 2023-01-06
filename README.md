@@ -23,8 +23,8 @@
 
 <p align="center">
 <a href="https://github.com/Shagnikpaul/Shagnikpaul" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shagnikpaul&repo=helios&theme=gruvbox&hide_border=true&border_radius=10"></a>
-  ‎‎‎‎‎‎
-  <a href="https://github.com/Shagnikpaul/Shagnikpaul" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shagnikpaul&repo=MyInstants-Downloader-GUI&theme=gruvbox&hide_border=true&border_radius=10"></a>   
+‎‎‎‎‎‎
+<a href="https://github.com/Shagnikpaul/Shagnikpaul" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shagnikpaul&repo=MyInstants-Downloader-GUI&theme=gruvbox&hide_border=true&border_radius=10"></a>   
 </p>
 <br>
 

@@ -15,9 +15,7 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/Shagnikpaul/Shagnikpaul" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shagnikpaul&theme=gruvbox"></a>
-<br>
-<a href="https://github.com/Shagnikpaul/Shagnikpaul" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=Shagnikpaul&show_icons=true&theme=gruvbox"></a>  
+<a href="https://github.com/Shagnikpaul/Shagnikpaul" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shagnikpaul&theme=gruvbox"></a> 
 </p>
 
 

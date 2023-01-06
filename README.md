@@ -38,5 +38,5 @@
 <br>
 
 <p align="center">
-<a href="https://open.spotify.com/user/stackyson?si=279a5c6b72bd4285" target="_blank" rel="noopener noreferrer"><img src="https://spotify-github-profile.vercel.app/api/view?uid=stackyson&cover_image=false&theme=default&show_offline=true&background_color=272822&bar_color=ffffff&bar_color_cover=false"></a>     
+<a href="https://open.spotify.com/user/stackyson?si=279a5c6b72bd4285" target="_blank" rel="noopener noreferrer"><img src="https://spotify-github-profile.vercel.app/api/view?uid=stackyson&cover_image=true&theme=default&show_offline=true&background_color=272822&bar_color=ffffff&bar_color_cover=false"></a>     
 </p>

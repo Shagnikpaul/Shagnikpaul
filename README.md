@@ -22,12 +22,14 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/Shagnikpaul/helios" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shagnikpaul&repo=helios&theme=gruvbox&hide_border=true&border_radius=10"></a>
-‎‎‎‎‎‎
-<a href="https://github.com/Shagnikpaul/MyInstants-Downloader-GUI" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shagnikpaul&repo=MyInstants-Downloader-GUI&theme=gruvbox&hide_border=true&border_radius=10"></a>   
+<a href="https://github.com/Shagnikpaul/helios" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shagnikpaul&repo=helios&theme=gruvbox&hide_border=true&border_radius=10" height=150px></a>
+‎‎‎       ‎‎
+<a href="https://github.com/Shagnikpaul/MyInstants-Downloader-GUI" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shagnikpaul&repo=MyInstants-Downloader-GUI&theme=gruvbox&hide_border=true&border_radius=10" height=150px></a>   
+<br>
+<br>  
+<a href="https://github.com/Shagnikpaul/COVID-19-Stats-App" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shagnikpaul&repo=COVID-19-Stats-App&theme=gruvbox&hide_border=true&border_radius=10" height=150px></a>   
 </p>
 <br>
-
 
 <br>
 <h1 align="center">🔹 Other Stuff. <br> ‎  </h1> 

@@ -9,6 +9,18 @@
 <a href="mailto:shagnikpaul.772@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/LCCi6IK.png" height=60px style="margin-right: 30px"></a> 
 <a href="https://www.linkedin.com/in/shagnik-paul-25a7711a4/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/UGTv1Lz.png" height=60px style="margin-right: 30px"></a>   
 </p>  
+
+<br>
+<h1 align="center">✨ My GitHub Stats. <br> ‎  </h1> 
+<br>
+
+<p align="center">
+<a href="https://github.com/Shagnikpaul/Shagnikpaul" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shagnikpaul&theme=gruvbox"></a>
+<br>
+<a href="https://github.com/Shagnikpaul/Shagnikpaul" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=Shagnikpaul&show_icons=true&theme=gruvbox"></a>  
+</p>
+
+
 <br>
 <h1 align="center">🔹 Other Stuff. <br> ‎  </h1> 
 <br>

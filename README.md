@@ -1,4 +1,4 @@
-![COVER](https://i.imgur.com/Z73YYJr.png)
+![COVER](https://i.imgur.com/ArmPsag.png)
 <br> <br>
 <h1 align="center">📞 Contact me through <br> ‎  </h1> 
 <br>
@@ -17,7 +17,7 @@
 <p align="center">
 <a href="https://github.com/Shagnikpaul/Shagnikpaul" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shagnikpaul&theme=gruvbox&hide_border=true&border_radius=10"></a> 
 </p>
-
+<br>
 
 <br>
 <h1 align="center">🔹 Other Stuff. <br> ‎  </h1> 

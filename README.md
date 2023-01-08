@@ -9,13 +9,15 @@
 </p>  
 
 <br>
-<h1 align="center">✨ My GitHub Stats. <br> ‎  </h1> 
+<h1 align="center">✨ My GitHub and Wakatime Stats. <br> ‎  </h1> 
 <br>
 
 <p align="center">
 <a href="https://github.com/Shagnikpaul/Shagnikpaul" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shagnikpaul&theme=gruvbox&hide_border=true&border_radius=10"  height=150px></a> 
 ‎‎‎       ‎‎  
-<a href="https://github.com/Shagnikpaul/Shagnikpaul" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=Shagnikpaul&show_icons=true&theme=gruvbox&hide_border=true&border_radius=10"  height=150px></a>   
+<a href="https://github.com/Shagnikpaul/Shagnikpaul" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=Shagnikpaul&show_icons=true&theme=gruvbox&hide_border=true&border_radius=10"  height=150px></a>
+<br>‎<br>
+<a href="https://github.com/Shagnikpaul/COVID-19-Stats-App" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shagnikpaul&theme=gruvbox&hide_border=true&border_radius=10" height=150px></a> 
 </p>
 <br>
 
@@ -33,12 +35,8 @@
 </p>
 <br>
 
-<br>
-<h1 align="center">🕒 Wakatime stats. <br> ‎  </h1> 
-<br>
-<p align="center">
-<a href="https://github.com/Shagnikpaul/COVID-19-Stats-App" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shagnikpaul&theme=gruvbox&hide_border=true&border_radius=10" height=150px></a> 
-</p>
+
+
 
 
 

@@ -34,6 +34,16 @@
 <br>
 
 <br>
+<h1 align="center">🕒 Wakatime stats. <br> ‎  </h1> 
+<br>
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+<br>
+<br>
 <h1 align="center">🔹 Other Stuff. <br> ‎  </h1> 
 <br>
 

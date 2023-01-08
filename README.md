@@ -36,10 +36,20 @@
 <br>
 <h1 align="center">🕒 Wakatime stats. <br> ‎  </h1> 
 <br>
+<p align="center">
+<a href="https://github.com/Shagnikpaul/COVID-19-Stats-App" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shagnikpaul&theme=gruvbox&hide_border=true&border_radius=10" height=150px></a> 
+</p>
+
+
+
 
 
 <!--START_SECTION:waka-->
+
+
 <!--END_SECTION:waka-->
+
+
 
 
 <br>

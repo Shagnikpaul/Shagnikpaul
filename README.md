@@ -16,8 +16,7 @@
 <a href="https://github.com/Shagnikpaul/Shagnikpaul" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shagnikpaul&theme=gruvbox&hide_border=true&border_radius=10"  height=150px></a> 
 ‎‎‎       ‎‎  
 <a href="https://github.com/Shagnikpaul/Shagnikpaul" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=Shagnikpaul&show_icons=true&theme=gruvbox&hide_border=true&border_radius=10"  height=150px></a>
-<br>‎<br>
-<a href="https://github.com/Shagnikpaul/COVID-19-Stats-App" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shagnikpaul&theme=gruvbox&hide_border=true&border_radius=10" height=150px></a> 
+
   
 <!--START_SECTION:waka-->
 

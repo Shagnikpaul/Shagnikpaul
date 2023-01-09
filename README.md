@@ -21,6 +21,14 @@
   
 <!--START_SECTION:waka-->
 
+```text
+From: 07 January 2023 - To: 08 January 2023
+
+Total Time: 3 hrs
+
+Python   2 hrs 59 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.86 %
+JSON     0 secs          -------------------------   00.14 %
+```
 
 <!--END_SECTION:waka-->  
   

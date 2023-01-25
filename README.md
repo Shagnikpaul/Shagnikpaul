@@ -21,12 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 January 2023 - To: 22 January 2023
+From: 07 January 2023 - To: 23 January 2023
 
-Total Time: 4 hrs 44 mins
+Total Time: 6 hrs 19 mins
 
-Python   4 hrs 42 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.49 %
-JSON     1 min           -------------------------   00.51 %
+Python           4 hrs 48 mins   >>>>>>>>>>>>>>>>>>>------   76.12 %
+Groovy           1 hr 22 mins    >>>>>--------------------   21.74 %
+Java             5 mins          -------------------------   01.38 %
+JSON             1 min           -------------------------   00.38 %
+GitIgnore file   1 min           -------------------------   00.37 %
 ```
 
 <!--END_SECTION:waka-->  

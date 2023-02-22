@@ -21,7 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 January 2023 - To: 19 February 2023
+From: 07 January 2023 - To: 20 February 2023
 
 Total Time: 37 hrs 20 mins
 

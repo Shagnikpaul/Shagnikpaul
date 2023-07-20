@@ -21,9 +21,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2023 - To: 16 July 2023
+From: 07 January 2023 - To: 17 July 2023
 
-Total Time: 141 hrs 29 mins
+Total Time: 141 hrs 30 mins
 
 Python           42 hrs 45 mins  >>>>>>>>-----------------   30.22 %
 JavaScript       37 hrs 9 mins   >>>>>>>------------------   26.26 %

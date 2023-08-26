@@ -21,15 +21,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2023 - To: 23 August 2023
+From: 07 January 2023 - To: 24 August 2023
 
-Total Time: 144 hrs 10 mins
+Total Time: 144 hrs 42 mins
 
-Python           42 hrs 45 mins  >>>>>>>------------------   29.66 %
-JavaScript       38 hrs 37 mins  >>>>>>>------------------   26.79 %
-Java             16 hrs 3 mins   >>>----------------------   11.14 %
-C++              10 hrs 32 mins  >>-----------------------   07.31 %
-XML              8 hrs 56 mins   >>-----------------------   06.20 %
+Python           42 hrs 49 mins  >>>>>>>------------------   29.59 %
+JavaScript       38 hrs 44 mins  >>>>>>>------------------   26.77 %
+Java             16 hrs 3 mins   >>>----------------------   11.10 %
+C++              10 hrs 32 mins  >>-----------------------   07.28 %
+XML              8 hrs 56 mins   >>-----------------------   06.18 %
 ```
 
 <!--END_SECTION:waka-->  

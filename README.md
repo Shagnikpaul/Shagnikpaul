@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2023 - To: 11 June 2026
+From: 07 January 2023 - To: 12 June 2026
 
-Total Time: 624 hrs 9 mins
+Total Time: 625 hrs 34 mins
 
-JavaScript        183 hrs 30 mins       >>>>>>>------------------   29.40 %
-Python            109 hrs 17 mins       >>>>---------------------   17.51 %
-C                 81 hrs 4 mins         >>>----------------------   12.99 %
-C++               78 hrs 40 mins        >>>----------------------   12.60 %
-Java              56 hrs 50 mins        >>-----------------------   09.11 %
+JavaScript        183 hrs 46 mins       >>>>>>>------------------   29.38 %
+Python            109 hrs 17 mins       >>>>---------------------   17.47 %
+C                 81 hrs 4 mins         >>>----------------------   12.96 %
+C++               78 hrs 40 mins        >>>----------------------   12.58 %
+Java              56 hrs 50 mins        >>-----------------------   09.09 %
 ```
 
 <!--END_SECTION:waka-->  
